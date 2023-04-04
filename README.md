@@ -17,3 +17,4 @@ Our project aims to perform edge detection using the Canny edge detection techni
 
 By the end of the project, we aim to provide an effective and accurate method for edge detection that can be applied to a range of real-world applications.
 
+<img src="https://raw.githubusercontent.com/JaydenRyou/Bricks-Counting-bricks-in-images-of-walls/main/Bricks%20Image/Bricks.jpg"  width="30%" height="10%">
