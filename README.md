@@ -1,4 +1,4 @@
-## Bricks-Counting-bricks-in-images-of-walls
+## Bricks: Counting bricks in images of walls
 
 ### Introduction
 Welcome to our final project for Math 490 (Computational Math). Our project focuses on measuring the height of buildings on the University of Illinois Urbana Champaign campus, which are primarily constructed with bricks or have brick facades. Traditionally, the height of these buildings can be determined by counting the layers of bricks. This approach provides a simple yet effective way of determining building height.
