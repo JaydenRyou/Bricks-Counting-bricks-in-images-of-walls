@@ -16,8 +16,8 @@ Our project aims to perform edge detection using the Canny edge detection techni
 6. Accuracy comparison: Finally, we will compare the results of our model with the ground truth obtained from OpenCV and assess its accuracy.
 
 By the end of the project, we aim to provide an effective and accurate method for edge detection that can be applied to a range of real-world applications.
-Original Image             |  RGB to Gray Scale
+**Original Image**             |  **RGB to Gray Scale**
 :-------------------------:|:-------------------------:
 <img src="https://raw.githubusercontent.com/JaydenRyou/Bricks-Counting-bricks-in-images-of-walls/main/Bricks%20Image/Bricks.jpg"  width="30%" height="10%"> | <img src="https://github.com/JaydenRyou/Bricks-Counting-bricks-in-images-of-walls/blob/main/Bricks%20Image/bricks_gray.jpg"  width="30%" height="10%">
-Non-maximum suppression    | Vertical line of the image  
+**Non-maximum suppression**    | **Vertical line of the image**
 <img src="https://github.com/JaydenRyou/Bricks-Counting-bricks-in-images-of-walls/blob/main/Bricks%20Image/bricks_nms.jpg"  width="30%" height="10%"> | <img src="https://github.com/JaydenRyou/Bricks-Counting-bricks-in-images-of-walls/blob/main/Bricks%20Image/squares.png"  width="80%" height="80%">
